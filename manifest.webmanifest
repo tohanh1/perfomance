@@ -1,0 +1,19 @@
+{
+  "name": "Perfomance Free – KPI thu hồi",
+  "short_name": "Perfomance",
+  "description": "Theo dõi thu COF, NON và hồ sơ NTU miễn phí",
+  "lang": "vi",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "theme_color": "#C99A25",
+  "background_color": "#F7F7F5",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
